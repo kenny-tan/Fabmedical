@@ -1,4 +1,4 @@
-/"407179"/407179/game: content-api
+name: content-api
 
 # This workflow is triggered on push to the 'content-web' directory of the  master branch of the repository
 on:
